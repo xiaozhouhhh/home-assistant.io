@@ -7,6 +7,8 @@
 
 This is the source for the [Home-Assistant.io website](https://home-assistant.io).
 
+
+
 ## Setup
 
 Setting up to contribute to documentation and the process for submitting pull requests is explained in the [developer documentation](https://developers.home-assistant.io/docs/documenting/).
