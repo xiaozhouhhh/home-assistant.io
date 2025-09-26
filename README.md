@@ -5,6 +5,7 @@
 
 # Home Assistant website
 
+
 This is the source for the [Home-Assistant.io website](https://home-assistant.io).
 
 ## Setup
